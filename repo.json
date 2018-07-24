@@ -1,0 +1,52 @@
+{
+  "reponame": "SmushyRepo",
+  "repologo": "https://i.imgur.com/rKiDYBO.jpg",
+  "repoauthor": "SmushyTaco",
+  "repodesc": "If you want me to add more games to my repo let me know on Twitter @SmushyT",
+  "categories": [
+    {
+      "categoryname": "Game Boy Advance Games",
+      "games": [
+        {
+          "name": "Pokemon Fire Red",
+          "link": "https://github.com/SmushyRepo/SmushyRepo.github.io/blob/master/Pokemon%20-%20Fire%20Red%20Version%20(U)%20(V1.1).gba",
+          "boxart": "https://github.com/SmushyRepo/SmushyRepo.github.io/blob/master/Pokemon%20Fire%20Red%20Logo.jpg",
+          "system": "GBA"
+        }
+      ]
+    },
+    {
+      "categoryname": "Game Boy Color Games",
+      "games": [
+        {
+          "name": "Example Game",
+          "link": "https://example.com/game.gba",
+          "boxart": "https://example.com/art.png",
+          "system": "GBC"
+        }
+      ]
+    },
+    {
+      "categoryname": "Game Boy Games",
+      "games": [
+        {
+          "name": "Example Game",
+          "link": "https://example.com/game.gba",
+          "boxart": "https://example.com/art.png",
+          "system": "GBA"
+        }
+      ]
+    },
+    {
+      "categoryname": "Nintendo Entertainment System Games",
+      "games": [
+        {
+          "name": "Example Game",
+          "link": "https://example.com/game.gba",
+          "boxart": "https://example.com/art.png",
+          "system": "NES"
+        }
+      ]
+    }
+  ]
+}
