@@ -9,8 +9,8 @@
       "games": [
         {
           "name": "Pokemon Fire Red",
-          "link": "https://github.com/SmushyRepo/SmushyRepo.github.io/blob/master/Pokemon%20-%20Fire%20Red%20Version%20(U)%20(V1.1).gba",
-          "boxart": "https://github.com/SmushyRepo/SmushyRepo.github.io/blob/master/Pokemon%20Fire%20Red%20Logo.jpg",
+          "link": "http://smushyrepo.github.io/Pokemon%20-%20Fire%20Red%20Version%20(U)%20(V1.1).gba",
+          "boxart": "http://smushyrepo.github.io/Pokemon%20Fire%20Red%20Logo.jpg",
           "system": "GBA"
         }
       ]
