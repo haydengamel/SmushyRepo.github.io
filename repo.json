@@ -1,6 +1,6 @@
 {
   "reponame": "SmushyRepo",
-  "repologo": "http://karthik99999.github.io/SmushyRepo/ProfilePicture.jpeg",
+  "repologo": "http://smushyrepo.github.io/ProfilePicture.jpeg",
   "repoauthor": "SmushyTaco",
   "repodesc": "If you want me to add more games to my repo let me know on Twitter @SmushyT",
   "categories": [
@@ -9,14 +9,14 @@
       "games": [
         {
           "name": "Pokemon Fire Red",
-          "link": "https://karthik99999.github.io/SmushyRepo/PokemonFireRed.gba",
-          "boxart": "https://karthik99999.github.io/SmushyRepo/PokemonFireRedLogo.jpg",
+          "link": "https://smushyrepo.github.io/PokemonFireRed.gba",
+          "boxart": "https://smushyrepo.github.io/PokemonFireRedLogo.jpg",
           "system": "GBA"
         },
         {
           "name": "Pokemon Emerald",
-          "link": "https://karthik99999.github.io/SmushyRepo/PokemonEmerald.gba",
-          "boxart": "https://karthik99999.github.io/SmushyRepo/PokemonEmeraldLogo.jpg",
+          "link": "https://smushyrepo.github.io/PokemonEmerald.gba",
+          "boxart": "https://smushyrepo.github.io/PokemonEmeraldLogo.jpg",
           "system": "GBA"
         }
        ]
