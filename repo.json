@@ -1,6 +1,6 @@
 {
   "reponame": "SmushyRepo",
-  "repologo": "http://smushyrepo.github.io/Profile%20Picture.jpeg",
+  "repologo": "http://smushyrepo.github.io/ProfilePicture.jpeg",
   "repoauthor": "SmushyTaco",
   "repodesc": "If you want me to add more games to my repo let me know on Twitter @SmushyT",
   "categories": [
@@ -9,50 +9,17 @@
       "games": [
         {
           "name": "Pokemon Fire Red",
-          "link": "https://smushyrepo.github.io/Pokemon%20-%20Fire%20Red%20Version%20(U)%20(V1.1).gba",
-          "boxart": "https://smushyrepo.github.io/Pokemon%20Fire%20Red%20Logo.jpg",
+          "link": "https://smushyrepo.github.io/PokemonFireRed.gba",
+          "boxart": "https://smushyrepo.github.io/PokemonFireRedLogo.jpg",
           "system": "GBA"
         },
         {
           "name": "Pokemon Emerald",
-          "link": "https://smushyrepo.github.io/Pokemon%20-%20Emerald%20Version%20(U).gba",
-          "boxart": "https://smushyrepo.github.io/Pokemon%20Emerald%20Logo.jpg",
+          "link": "https://smushyrepo.github.io/PokemonEmerald.gba",
+          "boxart": "https://smushyrepo.github.io/PokemonEmeraldLogo.jpg",
           "system": "GBA"
         }
-      ]
-    },
-    {
-      "categoryname": "Game Boy Color Games",
-      "games": [
-        {
-          "name": "Example Game",
-          "link": "https://example.com/game.gba",
-          "boxart": "https://example.com/art.png",
-          "system": "GBC"
-        }
-      ]
-    },
-    {
-      "categoryname": "Game Boy Games",
-      "games": [
-        {
-          "name": "Example Game",
-          "link": "https://example.com/game.gba",
-          "boxart": "https://example.com/art.png",
-          "system": "GBA"
-        }
-      ]
-    },
-    {
-      "categoryname": "Nintendo Entertainment System Games",
-      "games": [
-        {
-          "name": "Example Game",
-          "link": "https://example.com/game.gba",
-          "boxart": "https://example.com/art.png",
-          "system": "NES"
-        }
-      ]
-    }
-  ]
+       ]
+      }
+     ]
 }
